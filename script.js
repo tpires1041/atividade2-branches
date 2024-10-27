@@ -1,4 +1,4 @@
-let mostrarDados = function()
+let mostrarDados = function(){
 {
   let nome = document.getElementsById("nome").value
   let idade = document("idade").valu
