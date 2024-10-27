@@ -1,6 +1,6 @@
 let mostrarDados = function()
 {
-  let nome = document.getElementsByClassName("nome").value
+  let nome = document.getElementsById("nome").value
   let idade = document("idade").value
   let ano = document.getElementById("ano").value
 
